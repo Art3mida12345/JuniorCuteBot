@@ -6,7 +6,7 @@ namespace JuniorCuteBot
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello from EPAM");
+            Console.WriteLine("Hello from Alexey");
         }
     }
 }
